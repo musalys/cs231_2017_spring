@@ -1,3 +1,13 @@
+---
+layout: post
+title: 'CS231n 강의 내용 정리'
+author: robert
+date: 2018-06-23 14:38
+category : playwings
+tags: [deeplearning, cnn, CNN ,neural networks, convolutional neural networks]
+published: false
+---
+
 CS231n Lecture 2 | image classification
 ====
 
